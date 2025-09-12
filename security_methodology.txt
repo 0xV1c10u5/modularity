@@ -1,0 +1,7 @@
+# Security Methodology
+
+- 1.0 release
+- Confirm unit tests
+- Build integration tests
+- Fuzz
+- Manual
